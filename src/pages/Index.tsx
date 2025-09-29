@@ -29,7 +29,7 @@ const Index = () => {
   };
 
   const handleBack = () => {
-    window.location.href = "https://arogyasewa.vercel.app/";
+    window.location.href = "https://arogyasevak.vercel.app/";
   };
 
   if (currentStep === 'profile') {
