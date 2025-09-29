@@ -85,7 +85,7 @@ export const PatientProfile: React.FC<PatientProfileProps> = ({ onProfileComplet
             </div>
             <div>
               <CardTitle className="text-xl">Patient Profile Creation</CardTitle>
-              <p className="text-sm text-muted-foreground mt-1">Arogya Sahayak Health Registration</p>
+              <p className="text-sm text-muted-foreground mt-1">Arogya Sewa Health Registration</p>
             </div>
           </div>
           <div className="flex justify-center space-x-2">
