@@ -29,7 +29,7 @@ const Index = () => {
   };
 
   const handleBack = () => {
-    window.location.href = "https://sih-kappa-vert.vercel.app/";
+    window.location.href = "https://arogyasewa.vercel.app/";
   };
 
   if (currentStep === 'profile') {
@@ -55,7 +55,7 @@ const Index = () => {
                 <Activity className="w-8 h-8 text-primary" />
               </div>
               <div>
-                <h1 className="text-3xl font-bold text-foreground">Arogya Sahayak</h1>
+                <h1 className="text-3xl font-bold text-foreground">Arogya Sewa</h1>
                 <p className="text-muted-foreground">AI-Powered Rural Healthcare Triage System</p>
               </div>
             </div>
