@@ -327,7 +327,7 @@ export const TriageChatbot: React.FC = () => {
           </div>
           <div>
             <h1 className="text-xl font-semibold text-foreground">AI Health Triage Assistant</h1>
-            <p className="text-sm text-muted-foreground">Arogya Sahayak Digital Health Assessment</p>
+            <p className="text-sm text-muted-foreground">Arogya Sewa Digital Health Assessment</p>
           </div>
           <div className="ml-auto">
             <Badge variant="outline" className="bg-primary/10 text-primary border-primary/20">
